@@ -29,7 +29,7 @@ const Header = () => {
             {title || ''}{' '}
             <span className="text-color-main">{name || 'Square Logic'}</span>
             <br />
-            {subtitle || "Ecommerce done right"}
+            {subtitle || "eCommerce done right"}
           </h1>
         </Fade>
       </Container>
